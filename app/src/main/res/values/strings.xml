@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TipTime</string>
+    <string name="primary_color">Primary color</string>
+    <string name="button">Button</string>
+    <string name="secondary_color">Secondary color</string>
+    <string name="email_icon">email icon</string>
+    <string name="label">textinput</string>
+    <string name="cost_of_service">cost_of_service</string>
+    <string name="how_was_the_service">How was the service ?</string>
+    <string name="cost_of_service_inputbox">Cost of Service</string>
+    <string name="amazing_20">Amazing (20%)</string>
+    <string name="good_18">Good (18%)</string>
+    <string name="okay_15">Okay (15%)</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="calculate">Calculate</string>
+    <string name="store">TODO</string>
+    <string name="cost_of_service_placeholder">Cost of Service</string>
+    <string name="service_question">How was the service ?</string>
+</resources>
